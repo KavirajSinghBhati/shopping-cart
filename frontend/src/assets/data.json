@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung S22 Ultra",
+    "price": 118000,
+    "thumbnail": "https://images.samsung.com/in/smartphones/galaxy-s22-ultra/images/galaxy-s22-ultra_highlights_kv_img.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Boat Bassheads 242",
+    "price": 899,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/eab9128d-65cf-42ce-83a1-03492ec6157d_600x.png?v=1625046386"
+  },
+  {
+    "id": 71,
+    "title": "Macbook Air M2",
+    "price": 100000,
+    "thumbnail": "https://images.hindustantimes.com/tech/img/2022/07/16/original/IMG_4294_1657976412973.jpg"
+  },
+  {
+    "id": 86,
+    "title": "Bluetooth Aux",
+    "price": 25,
+    "thumbnail": "https://dummyjson.com/image/i/products/86/thumbnail.jpg"
+  }
+]
